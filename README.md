@@ -94,7 +94,7 @@ plt.show()
 
 ## Results
 
-![Visualizations of Top SKills for Data Nerds](Project\images\skills_demand_all_data_roles.png)
+![Visualizations of Top SKills for Data Nerds](Project/images/skills_demand_all_data_roles.png)
 
 ### Insights
 
@@ -122,7 +122,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](Project\images\skill_trend_DA.png)  
+![Trending Top Skills for Data Analysts in the US](Project/images/skill_trend_DA.png)  
 
 
 ### Insights:
@@ -147,7 +147,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](Project\images\salary_analysis.png)  
+![Salary Distributions of Data Jobs in the US](Project/images/salary_analysis.png)  
 
 #### Insights
 
@@ -180,7 +180,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](Project\images\Highest_Paid_and_Most_In_Demand_Skills_in_the_US.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](Project/images/Highest_Paid_and_Most_In_Demand_Skills_in_the_US.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -208,7 +208,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](Project\images\Most_Optimal_Skills_Uncolored.png)    
+![Most Optimal Skills for Data Analysts in the US](Project/images/Most_Optimal_Skills_Uncolored.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
@@ -243,7 +243,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](Project\images\Most_Optimal_Skills.png)  
+![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](Project/images/Most_Optimal_Skills.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
 #### Insights:
